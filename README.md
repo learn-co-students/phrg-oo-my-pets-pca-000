@@ -30,5 +30,9 @@ You will be building an `Owner`, `Fish`, `Dog`, and `Cat` class. An owner will k
 
 These are just a few hints and guidelines to help you through this lab. This lab is extensive and challenging. Rely on the guides here, refer to the previous Code Along on object relations, and **read the test output and test files**. Never forget to ask a question on Learn if you are stuck. And remember, as a programmer, your job is to *fix broken code!* Broken code is the norm, the baseline, the starting point for all of the projects you will build. Embrace it!
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-oo-my-pets/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-oo-my-pets/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 
 <p data-visibility='hidden'>PHRG My Pets</p>
